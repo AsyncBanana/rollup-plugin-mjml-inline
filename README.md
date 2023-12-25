@@ -1,5 +1,5 @@
 <div class="text-xs-center" align="center" style="margin: 20px">
-  <img src="https://github.com/asyncbanana/rollup-plugin-mjml-inline/banner.png" alt="banner displaying rollup and mjml logos with the text mjml-inline">
+  <img src="https://github.com/AsyncBanana/rollup-plugin-mjml-inline/blob/main/banner.png" alt="banner displaying rollup and mjml logos with the text mjml-inline">
 </div>
 
 `rollup-plugin-mjml-inline` is a fork of [rollup-plugin-mjml](https://github.com/daankauwenberg/rollup-plugin-mjml) that directly inlines the output HTML rather than separating it into a file. It also includes TypeScript types and guarantees Vite support.
